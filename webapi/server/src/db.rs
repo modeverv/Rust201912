@@ -20,11 +20,6 @@ pub fn insert_logs(cn: &PgConnection, logs: &[NewLog]) -> QueryResult<Vec<i64>> 
         .load(cn)
 }
 
-pub fn logs2(cn: &PgConnection) -> QueryResult<Vec<Log>> {
-    use crate::schema::logs::dsl;
-    dsl::logs.order(dsl::timestamp.asc()).load(cn)
-}
-
 pub fn logs(
     cn: &PgConnection,
     from: Option<DateTime<Utc>>,
