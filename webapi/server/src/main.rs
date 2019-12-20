@@ -20,6 +20,8 @@ impl Server {
     pub fn new() -> Self {
         dotenv().ok();
         let database_url = env::var("DATABASE_URL").expect("DATABASE_URL is not set");
+        println!("{}",database_url);
+        let database_url = "postgresql://postgres:password@127.0.0.1:5432/log-collector";
         let manager = ConnectionManager::<PgConnection>::new(database_url);
         let pool = Pool::builder()
             .build(manager)

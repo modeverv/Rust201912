@@ -1,0 +1,13 @@
+/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/deps/url-4e9067995890bdfd.rmeta: /Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/lib.rs /Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/host.rs /Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/origin.rs /Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/parser.rs /Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/path_segments.rs /Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/query_encoding.rs /Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/slicing.rs /Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/form_urlencoded.rs /Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/quirks.rs
+
+/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/deps/url-4e9067995890bdfd.d: /Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/lib.rs /Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/host.rs /Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/origin.rs /Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/parser.rs /Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/path_segments.rs /Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/query_encoding.rs /Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/slicing.rs /Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/form_urlencoded.rs /Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/quirks.rs
+
+/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/lib.rs:
+/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/host.rs:
+/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/origin.rs:
+/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/parser.rs:
+/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/path_segments.rs:
+/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/query_encoding.rs:
+/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/slicing.rs:
+/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/form_urlencoded.rs:
+/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.0/src/quirks.rs:
