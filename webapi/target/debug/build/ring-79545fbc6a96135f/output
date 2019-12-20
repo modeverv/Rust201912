@@ -1,0 +1,584 @@
+ANDROID_HOME: /Volumes/MySD/Library/AndroidSDK
+Apple_PubSub_Socket_Render: /private/tmp/com.apple.launchd.egfS958bMB/Render
+CARGO: /Users/seijiro/.rustup/toolchains/nightly-x86_64-apple-darwin/bin/cargo
+CARGO_CFG_DEBUG_ASSERTIONS: 
+CARGO_CFG_PROC_MACRO: 
+CARGO_CFG_TARGET_ARCH: x86_64
+CARGO_CFG_TARGET_ENDIAN: little
+CARGO_CFG_TARGET_ENV: 
+CARGO_CFG_TARGET_FAMILY: unix
+CARGO_CFG_TARGET_FEATURE: cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3
+CARGO_CFG_TARGET_HAS_ATOMIC: 128,16,32,64,8,ptr
+CARGO_CFG_TARGET_HAS_ATOMIC_LOAD_STORE: 128,16,32,64,8,ptr
+CARGO_CFG_TARGET_OS: macos
+CARGO_CFG_TARGET_POINTER_WIDTH: 64
+CARGO_CFG_TARGET_THREAD_LOCAL: 
+CARGO_CFG_TARGET_VENDOR: apple
+CARGO_CFG_UNIX: 
+CARGO_FEATURE_DEFAULT: 1
+CARGO_FEATURE_DEV_URANDOM_FALLBACK: 1
+CARGO_FEATURE_USE_HEAP: 1
+CARGO_HOME: /Users/seijiro/.cargo
+CARGO_MAKEFLAGS: --jobserver-fds=3,4 -j --jobserver-auth=3,4 -j
+CARGO_MANIFEST_DIR: /Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/ring-0.13.5
+CARGO_MANIFEST_LINKS: ring-asm
+CARGO_PKG_AUTHORS: Brian Smith <brian@briansmith.org>
+CARGO_PKG_DESCRIPTION: Safe, fast, small crypto using Rust.
+CARGO_PKG_HOMEPAGE: 
+CARGO_PKG_NAME: ring
+CARGO_PKG_REPOSITORY: https://github.com/briansmith/ring
+CARGO_PKG_VERSION: 0.13.5
+CARGO_PKG_VERSION_MAJOR: 0
+CARGO_PKG_VERSION_MINOR: 13
+CARGO_PKG_VERSION_PATCH: 5
+CARGO_PKG_VERSION_PRE: 
+COLORFGBG: 15;0
+COLORTERM: truecolor
+DEBUG: true
+DISPLAY: /private/tmp/com.apple.launchd.oAialW4UVD/org.macosforge.xquartz:0
+DYLD_FALLBACK_LIBRARY_PATH: /Users/seijiro/work/rust/20191110/201912/webapi/target/debug/deps:/Users/seijiro/.rustup/toolchains/nightly-x86_64-apple-darwin/lib:/Users/seijiro/.rustup/toolchains/nightly-x86_64-apple-darwin/lib:/Users/seijiro/lib:/usr/local/lib:/usr/lib
+D_ACCESS_TOKEN: 803p0twlb5ox4za9
+D_ACCESS_TOKEN_SECRET: 80tneg5csaf7w2f
+D_APP_KEY: 7b85m5u7ze5glfo
+D_APP_SECRET: cjkrnm44lz09muo
+D_USER_ID: 2932937
+EDITOR: emacs -q
+GEM_HOME: /Users/seijiro/.rvm/gems/ruby-2.6.3
+GEM_PATH: /Users/seijiro/.rvm/gems/ruby-2.6.3:/Users/seijiro/.rvm/gems/ruby-2.6.3@global
+GO15VENDOREXPERIMENT: 1
+GOPATH: /Users/seijiro/GoogleDrive/go
+GOROOT: /usr/local/opt/go/libexec
+HOME: /Users/seijiro
+HOST: x86_64-apple-darwin
+IRBRC: /Users/seijiro/.rvm/rubies/ruby-2.6.3/.irbrc
+ITERM_PROFILE: Default
+ITERM_SESSION_ID: w0t1p0:E469D785-E12A-44E6-B66E-522CFBDB39CB
+LANG: ja_JP.UTF-8
+LC_ALL: ja_JP.UTF-8
+LC_TERMINAL: iTerm2
+LC_TERMINAL_VERSION: 3.3.8beta3
+LD_LIBRARY_PATH: :/opt/local/lib
+LIBRARY_PATH: /usr/local/mysql/lib:/usr/local/lib:/usr/lib
+LOGNAME: seijiro
+M2_HOME: /usr/local/Cellar/maven/3.6.0/libexec
+MACBOOK: d4:9a:20:64:56:6b
+MANPATH: /Users/seijiro/.nvm/versions/node/v10.5.0/share/man:/opt/local/man:
+MY_RUBY_HOME: /Users/seijiro/.rvm/rubies/ruby-2.6.3
+NUM_JOBS: 4
+NVM_BIN: /Users/seijiro/.nvm/versions/node/v10.5.0/bin
+NVM_CD_FLAGS: -q
+NVM_DIR: /Users/seijiro/.nvm
+OLDPWD: /Users/seijiro/work/rust/20191110/201912/webapi/server
+OPT_LEVEL: 0
+OUT_DIR: /Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out
+PATH: /Users/seijiro/.cargo/bin:/usr/local/Cellar/maven/3.6.0/libexec/bin:/Users/seijiro/.composer/vendor/bin:/Users/seijiro/.cargo/bin:/usr/local/opt/curl/bin:/Users/seijiro/.pyenv/shims:/Users/seijiro/.pyenv/bin:/Users/seijiro/.rvm/gems/ruby-2.2.1/bin:/usr/local/bin:/usr/local/sbin:/usr/local/opt/openssl/bin:/Users/seijiro/.nvm/versions/node/v10.5.0/bin:/Users/seijiro/.rvm/gems/ruby-2.6.3/bin:/Users/seijiro/.rvm/gems/ruby-2.6.3@global/bin:/Users/seijiro/.rvm/rubies/ruby-2.6.3/bin:/Users/seijirou/.rvm/bin:/Users/seijiro/scripts:/Developer/SDKs/flex_sdk_4.5.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/Users/seijiro/bin:/opt/local/bin:/opt/local/sbin:/Users/seijiro/Dropbox/code/go/bin:/Users/seijiro/.rvm/bin:/Users/seijiro/.rvm/bin:/usr/local/mysql/bin:/usr/local/Cellar/php53/5.3.21/bin:/Users/seijiro/scripts:/Users/seijiro/activator-dist-1.3.7:/Users/seijiro/GoogleDrive/go/bin:/Volumes/MySD/Library/AndroidSDK/emulator:/Volumes/MySD/Library/AndroidSDK/tools:/Volumes/MySD/Library/AndroidSDK/tools/bin:/Volumes/MySD/Library/AndroidSDK/platform-tools:/Users/seijiro/.pyenv/versions/anaconda3-4.3.1/bin
+PGDATA: /usr/local/var/postgres
+PROFILE: debug
+PWD: /Users/seijiro/work/rust/20191110/201912/webapi
+PYENV_ROOT: /Users/seijiro/.pyenv
+PYENV_SHELL: zsh
+RSENSE_HOME: /Users/seijiro/.emacs.d/rsense-0.3
+RUBY_VERSION: ruby-2.6.3
+RUSTC: rustc
+RUSTDOC: rustdoc
+RUSTUP_HOME: /Users/seijiro/.rustup
+RUSTUP_TOOLCHAIN: nightly-x86_64-apple-darwin
+RUST_RECURSION_COUNT: 1
+SHELL: /bin/bash
+SHLVL: 1
+SSH_AUTH_SOCK: /private/tmp/com.apple.launchd.AJAANKCZzF/Listeners
+TARGET: x86_64-apple-darwin
+TERM: xterm
+TERM_PROGRAM: iTerm.app
+TERM_PROGRAM_VERSION: 3.3.8beta3
+TERM_SESSION_ID: w0t1p0:E469D785-E12A-44E6-B66E-522CFBDB39CB
+TMPDIR: /var/folders/dx/9z9yv2js2lnb52qj2_1bpdjr0000gn/T/
+USER: seijiro
+XPC_FLAGS: 0x0
+XPC_SERVICE_NAME: 0
+_: /Users/seijiro/.cargo/bin/cargo
+_JAVA_OPTIONS: -Dfile.encoding=UTF-8
+__CF_USER_TEXT_ENCODING: 0x1F5:0x1:0xE
+rvm_alias_expanded: 
+rvm_bin_flag: 
+rvm_bin_path: /Users/seijiro/.rvm/bin
+rvm_docs_type: 
+rvm_gemstone_package_file: 
+rvm_gemstone_url: 
+rvm_hook: 
+rvm_niceness: 
+rvm_nightly_flag: 
+rvm_only_path_flag: 
+rvm_path: /Users/seijiro/.rvm
+rvm_prefix: /Users/seijiro
+rvm_pretty_print_flag: 
+rvm_proxy: 
+rvm_quiet_flag: 
+rvm_ruby_bits: 
+rvm_ruby_file: 
+rvm_ruby_make: 
+rvm_ruby_make_install: 
+rvm_ruby_mode: 
+rvm_script_name: 
+rvm_sdk: 
+rvm_silent_flag: 
+rvm_use_flag: 
+rvm_version: 1.29.7-next (master)
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/aes-x86_64-macosx.o" "/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/ring-0.13.5/pregenerated/aes-x86_64-macosx.S"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/aesni-x86_64-macosx.o" "/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/ring-0.13.5/pregenerated/aesni-x86_64-macosx.S"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/vpaes-x86_64-macosx.o" "/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/ring-0.13.5/pregenerated/vpaes-x86_64-macosx.S"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/x86_64-mont-macosx.o" "/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/ring-0.13.5/pregenerated/x86_64-mont-macosx.S"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/x86_64-mont5-macosx.o" "/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/ring-0.13.5/pregenerated/x86_64-mont5-macosx.S"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/chacha-x86_64-macosx.o" "/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/ring-0.13.5/pregenerated/chacha-x86_64-macosx.S"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/p256-x86_64-asm-macosx.o" "/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/ring-0.13.5/pregenerated/p256-x86_64-asm-macosx.S"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/aesni-gcm-x86_64-macosx.o" "/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/ring-0.13.5/pregenerated/aesni-gcm-x86_64-macosx.S"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/ghash-x86_64-macosx.o" "/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/ring-0.13.5/pregenerated/ghash-x86_64-macosx.S"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/poly1305-x86_64-macosx.o" "/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/ring-0.13.5/pregenerated/poly1305-x86_64-macosx.S"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/sha512-x86_64-macosx.o" "/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/ring-0.13.5/pregenerated/sha512-x86_64-macosx.S"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/sha256-x86_64-macosx.o" "/Users/seijiro/.cargo/registry/src/github.com-1ecc6299db9ec823/ring-0.13.5/pregenerated/sha256-x86_64-macosx.S"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-std=c1x" "-Wbad-function-cast" "-Wmissing-prototypes" "-Wnested-externs" "-Wstrict-prototypes" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/aes.o" "crypto/fipsmodule/aes/aes.c"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-std=c1x" "-Wbad-function-cast" "-Wmissing-prototypes" "-Wnested-externs" "-Wstrict-prototypes" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/exponentiation.o" "crypto/fipsmodule/bn/exponentiation.c"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-std=c1x" "-Wbad-function-cast" "-Wmissing-prototypes" "-Wnested-externs" "-Wstrict-prototypes" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/generic.o" "crypto/fipsmodule/bn/generic.c"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-std=c1x" "-Wbad-function-cast" "-Wmissing-prototypes" "-Wnested-externs" "-Wstrict-prototypes" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/montgomery.o" "crypto/fipsmodule/bn/montgomery.c"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-std=c1x" "-Wbad-function-cast" "-Wmissing-prototypes" "-Wnested-externs" "-Wstrict-prototypes" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/montgomery_inv.o" "crypto/fipsmodule/bn/montgomery_inv.c"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-std=c1x" "-Wbad-function-cast" "-Wmissing-prototypes" "-Wnested-externs" "-Wstrict-prototypes" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/shift.o" "crypto/fipsmodule/bn/shift.c"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-std=c1x" "-Wbad-function-cast" "-Wmissing-prototypes" "-Wnested-externs" "-Wstrict-prototypes" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/e_aes.o" "crypto/fipsmodule/cipher/e_aes.c"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-std=c1x" "-Wbad-function-cast" "-Wmissing-prototypes" "-Wnested-externs" "-Wstrict-prototypes" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/crypto.o" "crypto/crypto.c"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-std=c1x" "-Wbad-function-cast" "-Wmissing-prototypes" "-Wnested-externs" "-Wstrict-prototypes" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/ecp_nistz.o" "crypto/fipsmodule/ec/ecp_nistz.c"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-std=c1x" "-Wbad-function-cast" "-Wmissing-prototypes" "-Wnested-externs" "-Wstrict-prototypes" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/ecp_nistz256.o" "crypto/fipsmodule/ec/ecp_nistz256.c"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-std=c1x" "-Wbad-function-cast" "-Wmissing-prototypes" "-Wnested-externs" "-Wstrict-prototypes" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/gfp_p256.o" "crypto/fipsmodule/ec/gfp_p256.c"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-std=c1x" "-Wbad-function-cast" "-Wmissing-prototypes" "-Wnested-externs" "-Wstrict-prototypes" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/gfp_p384.o" "crypto/fipsmodule/ec/gfp_p384.c"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-std=c1x" "-Wbad-function-cast" "-Wmissing-prototypes" "-Wnested-externs" "-Wstrict-prototypes" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/limbs.o" "crypto/limbs/limbs.c"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-std=c1x" "-Wbad-function-cast" "-Wmissing-prototypes" "-Wnested-externs" "-Wstrict-prototypes" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/mem.o" "crypto/mem.c"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-std=c1x" "-Wbad-function-cast" "-Wmissing-prototypes" "-Wnested-externs" "-Wstrict-prototypes" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/gcm.o" "crypto/fipsmodule/modes/gcm.c"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-std=c1x" "-Wbad-function-cast" "-Wmissing-prototypes" "-Wnested-externs" "-Wstrict-prototypes" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/curve25519.o" "third_party/fiat/curve25519.c"
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-std=c1x" "-Wbad-function-cast" "-Wmissing-prototypes" "-Wnested-externs" "-Wstrict-prototypes" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/cpu-intel.o" "crypto/cpu-intel.c"
+running: "ar" "ar" "crs" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/libring-core.a" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/aes-x86_64-macosx.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/aesni-x86_64-macosx.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/vpaes-x86_64-macosx.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/x86_64-mont-macosx.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/x86_64-mont5-macosx.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/chacha-x86_64-macosx.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/p256-x86_64-asm-macosx.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/aesni-gcm-x86_64-macosx.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/ghash-x86_64-macosx.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/poly1305-x86_64-macosx.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/sha512-x86_64-macosx.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/sha256-x86_64-macosx.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/aes.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/exponentiation.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/generic.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/montgomery.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/montgomery_inv.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/shift.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/e_aes.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/crypto.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/ecp_nistz.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/ecp_nistz256.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/gfp_p256.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/gfp_p384.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/limbs.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/mem.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/gcm.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/curve25519.o" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/cpu-intel.o"
+cargo:warning=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: /Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/libring-core.a(aes.o) has no symbols
+exit code: 0
+cargo:rustc-link-lib=static=ring-core
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3")
+running "cc" "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "include" "-Wall" "-Wextra" "-std=c1x" "-Wbad-function-cast" "-Wmissing-prototypes" "-Wnested-externs" "-Wstrict-prototypes" "-pedantic" "-pedantic-errors" "-Wall" "-Wextra" "-Wcast-align" "-Wcast-qual" "-Wenum-compare" "-Wfloat-equal" "-Wformat=2" "-Winline" "-Winvalid-pch" "-Wmissing-declarations" "-Wmissing-field-initializers" "-Wmissing-include-dirs" "-Wredundant-decls" "-Wshadow" "-Wsign-compare" "-Wundef" "-Wuninitialized" "-Wwrite-strings" "-fno-strict-aliasing" "-fvisibility=hidden" "-Wno-cast-align" "-fstack-protector" "-gfull" "-D_XOPEN_SOURCE=700" "-c" "-o/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/constant_time_test.o" "crypto/constant_time_test.c"
+running: "ar" "ar" "crs" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/libring-test.a" "/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out/constant_time_test.o"
+exit code: 0
+cargo:rustc-link-lib=static=ring-test
+cargo:rustc-link-search=native=/Users/seijiro/work/rust/20191110/201912/webapi/target/debug/build/ring-79545fbc6a96135f/out
